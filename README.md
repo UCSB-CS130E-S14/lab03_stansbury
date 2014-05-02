@@ -1,4 +1,4 @@
-lab03_stansbury
+CS130E-S14-Labs
 ===============
 
-lab03 for Sarah Stansbury
+labs for CS130E-S14
